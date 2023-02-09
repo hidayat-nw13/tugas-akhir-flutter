@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "680397691158",
+    "project_id": "finalpro-4ed25",
+    "storage_bucket": "finalpro-4ed25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680397691158:android:c899dcc4408f8284f39837",
+        "android_client_info": {
+          "package_name": "com.example.akhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680397691158-unkoaqpv136nl65aanngobuuoqb3rji0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7bfZa3fh64p6Ej-l7d5WRNgyXlHN-tho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680397691158-unkoaqpv136nl65aanngobuuoqb3rji0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680397691158-0cfqojujmk3mc3vrll7ncrl2pfii865m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.akhir"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680397691158:android:4d80fd329013e7d6f39837",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680397691158-unkoaqpv136nl65aanngobuuoqb3rji0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7bfZa3fh64p6Ej-l7d5WRNgyXlHN-tho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680397691158-unkoaqpv136nl65aanngobuuoqb3rji0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680397691158-0cfqojujmk3mc3vrll7ncrl2pfii865m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.akhir"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
